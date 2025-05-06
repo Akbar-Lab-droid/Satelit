@@ -1,6 +1,6 @@
 # Satelit Starlink 
 ## Satelit Starlink Berisi 3000 Data Lebih 
-![Deskripsi Gambar](Satelit/logo.jpg)
+![Deskripsi Gambar](logo.jpg)
 ### Jalankan Di Terminal Termux/Linux
 # Termux
 + pkg update && pkg upgrade
