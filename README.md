@@ -1,5 +1,27 @@
 # Satelit Starlink 
 ## Satelit Starlink Berisi 3000 Data Lebih 
+### Jalankan Di Terminal Termux/Linux
+# Termux
++ pkg update && pkg upgrade
++ pkg install python
++ pkg install git
++ git clone https://github.com/Akbar-Lab-droid/Satelit
++ cd satelit 
++ pip -r install requirement.txt
++ python server.py
+## buka terminal baru lagi
++ python satelit.py
++ selesai
 
-+ Cara Install 
-
+# Linux
++ sudo apt-get install update
++ sudo apt-get install upgrade
++ sudo apt-get install python
++ sudo apt-get install git
++ git clone https://github.com/Akbar-Lab-droid/Satelit
++ cd Satelit
++ sudo pip -r install requirement.txt
++ python server.py
+## buka terminal baru lagi
++ python satelit.py
++ selesai 
