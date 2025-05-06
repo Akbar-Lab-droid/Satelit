@@ -9,7 +9,7 @@
 + git clone https://github.com/Akbar-Lab-droid/Satelit
 + cd satelit 
 + pip -r install requirement.txt
-+ python server.py
++ python Server.py
 ## buka terminal baru lagi
 + python Satelit.py
 + selesai
@@ -22,7 +22,7 @@
 + git clone https://github.com/Akbar-Lab-droid/Satelit
 + cd Satelit
 + sudo pip -r install requirement.txt
-+ python server.py
++ python Server.py
 ## buka terminal baru lagi
-+ python satelit.py
++ python Satelit.py
 + selesai 
