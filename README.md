@@ -10,7 +10,7 @@
 + pip -r install requirement.txt
 + python server.py
 ## buka terminal baru lagi
-+ python satelit.py
++ python Satelit.py
 + selesai
 
 # Linux
