@@ -12,8 +12,8 @@ class Satelite_Starlink:
         jumlah = int(input(Fore.BLUE + "Masukan Jumlah:" + Style.RESET_ALL))
         for i  in range(jumlah):
             print("[%d] Nama Satelite : %s" % (i + 1, self.data[i]["spaceTrack"]["OBJECT_NAME"]))
-            input(Fore.BLUE + "Enter Untuk Kembali Ke Menu : " + Style.RESET_ALL)
-            self.welcome()
+        input(Fore.BLUE + "Enter Untuk Kembali Ke Menu : " + Style.RESET_ALL)
+        self.welcome()
     def detail_satelite(self):
         show_logo()
         p = int(input(Fore.BLUE + "ID Nomor Satelit: " + Style.RESET_ALL))
